@@ -1,4 +1,4 @@
 KaroStuff
 =========
 
-Kleine Sammlung von Tools, Skripten, Karten, Bug-Fixes und anderem zu www.karopapier.de
+This project is closed. All content has been moved to https://github.com/ultimate/KaroToolsCollection
